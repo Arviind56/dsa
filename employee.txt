@@ -1,0 +1,47 @@
+Employee Pairing
+A company is organizing a fun game for its employees. N number of employees are participating in this game. Each employee can either compete in the game as an individual or as a pair with another employee. The task is to find the number of different ways in which N number of employees can be single or can be paired up.
+
+Condition:
+
+If the total count of employees is odd, then pairing is not allowed.
+If the total count of employees is even, then employees can be single or can be paired up.
+Each employee can be paired only once.
+Each employee can only compete once.
+
+Constraints:
+Constraints:
+
+1 < N <= 10
+
+Input Format:
+
+The candidate has to write the code to accept a positive integer number representing count of employees.
+Output Format:
+
+The output should be a positive integer only.
+Additional message in the output will result in the failure of test cases.
+Instructions:
+
+The system does not allow any kind of hard-coded input value/values.
+The written program code by the candidate will be verified against the input which are supplied from the system.
+
+Example:
+Input:
+
+3
+
+Output:
+
+1
+
+ 
+
+
+Explanation:
+Explanation:
+
+Number of employees = 3
+
+3 is a odd number
+
+[1], [2], [3] ; - All employees are single
